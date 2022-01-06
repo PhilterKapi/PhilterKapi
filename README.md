@@ -2,7 +2,7 @@
 - 👀 I’m interested in ALL THINGS ELETRONICS!
 - 🌱 I’m currently learning PYTHON!
 - 💞️ I’m looking to collaborate on PYTHON APPS
-- 📫 How to reach me? YOU CANT :D
+- 📫 How to reach me? YOU CANT!
 
 <!---
 PhilterKapi/PhilterKapi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
