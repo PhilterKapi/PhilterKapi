@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PhilterKapi
 - 👀 I’m interested in ALL THINGS ELETRONICS!
-- 🌱 I’m currently learning PYTHON!
-- 💞️ I’m looking to collaborate on PYTHON APPS
+- 🌱 I’m currently learning REACT!
+- 💞️ I’m looking to collaborate on REACT APPS
 - 📫 How to reach me? E-mail; glanson93@gmail.com
 
 <!---
